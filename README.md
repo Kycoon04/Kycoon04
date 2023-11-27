@@ -1,5 +1,5 @@
 <div id="header" align="center">
-    <img src="YOUR_IMAGE_URL" width="100" /> <!-- Consider adding a professional or thematic image that represents you or your interests -->
+     <img src="https://media.giphy.com/media/Dh5q0sShxgp13DwrvG/giphy.gif" width="200" />
     <h1>Hi 👋, I'm Kycoon</h1>
     <h3>Backend Developer from Costa Rica</h3>
 </div>
